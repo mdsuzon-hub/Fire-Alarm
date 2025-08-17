@@ -18,9 +18,9 @@ FirebaseConfig config;
 FirebaseAuth auth;
 FirebaseData fbdo;
 
-// Your Firebase credentials
-#define FIREBASE_HOST "firealertsystem-f33ba-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "8biwxy0fSJrjNLWR9HnkvjQxbedp7f8Rj09wwdma"
+// Firebase credentials ------------------------------------------------------------
+#define FIREBASE_HOST "DB-HOST"
+#define FIREBASE_AUTH "DB_AUTH"
 
 // DHT11 Sensor
 #define DHTPIN 2
